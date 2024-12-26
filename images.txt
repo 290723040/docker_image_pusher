@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis
 mysql
+mysql:8.0.31
+--platform=linux/arm64 mysql:8.0.31
